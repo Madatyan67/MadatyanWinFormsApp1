@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace WinFormsApp1Turvandyan
+namespace WinFormsApp1Madatyan
 {
     static class Program
     {
