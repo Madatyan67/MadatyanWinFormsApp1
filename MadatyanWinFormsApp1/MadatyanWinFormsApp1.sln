@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31105.61
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp1Turvandyan", "WinFormsApp1Turvandyan\WinFormsApp1Turvandyan.csproj", "{EF727C8E-281A-42AD-A135-125FCCD9EADA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp1Madatyan", "WinFormsApp1Madatyan\WinFormsApp1Madatyan.csproj", "{EF727C8E-281A-42AD-A135-125FCCD9EADA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
