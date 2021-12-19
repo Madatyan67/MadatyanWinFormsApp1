@@ -1,5 +1,5 @@
 ﻿
-namespace WinFormsApp1Turvandyan
+namespace WinFormsApp1Madatyan
 {
     partial class Form1
     {
