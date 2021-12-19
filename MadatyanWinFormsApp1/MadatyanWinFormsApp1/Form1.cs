@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace WinFormsApp1Turvandyan
+namespace WinFormsApp1Madatyan
 {
     public partial class Form1 : Form
     {
